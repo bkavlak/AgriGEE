@@ -144,10 +144,7 @@ var TCIVis = {
 var VHIVis = {
   min: 0,
   max: 1,
-  palette: ['993300','AD4D00','C16800','D68200','EA9D00',
-            'FFB800','FFDB00','FFFE00','E6FE0C','CCFE19',
-            'B3FE26','99FF33','7EE42B','63C922','47AD19',
-            '2C9210','107606'],
+  palette: ['306466', '9cab68', 'cccc66', '9c8448', '6e462c'],
 };
 
 var RGBVis = {
