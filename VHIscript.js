@@ -170,3 +170,5 @@ Map.addLayer(
     VHI_t1/*.focal_mean(50, 'circle', 'meters')*/,
     VHIVis,
     'Vegetation Health Index');
+
+Map.centerObject(roi);
